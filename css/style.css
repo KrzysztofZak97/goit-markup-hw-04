@@ -259,6 +259,8 @@ h2 {
 }
 .h1-background {
   background-color: var(--background-color);
+  background-image: url("../images/backgroundh1.jpg");
+  max-width: 1600px;
 }
 .section {
   padding-top: 94px;
